@@ -1,0 +1,10 @@
+null       34
+null       19
+null        2
+null        2
+null        1
+null        1
+null        2
+null        2
+null       19
+24 BICHES  34

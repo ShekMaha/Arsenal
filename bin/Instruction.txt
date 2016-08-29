@@ -1,0 +1,9 @@
+Use Arrow Keys to move around
+
+Press 'space' to shoot
+
+Collect the crates to score
+
+Each crate has a different weapon
+
+Press 'p' to pause

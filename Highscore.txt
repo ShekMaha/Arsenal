@@ -1,0 +1,10 @@
+null        4
+null        1
+null        0
+null        0
+null        0
+null        0
+null        0
+null        0
+null        1
+k           4
